@@ -1,1 +1,2 @@
 ## Conflict
+## Edited in conflict
