@@ -1,4 +1,4 @@
 # Project
 This is awesome project.
 Author: Danil
-## Edited in master
+## Added from GitHub
